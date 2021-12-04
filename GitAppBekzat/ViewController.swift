@@ -39,10 +39,10 @@ class ViewController: UIViewController {
         
         //AppStore 2
         
-        //Hello from GitHub
-        //Hello from Xcode
+        //fix bugs
+        //add features
         
-        //Bekzat
+        //Sayana
     }
 
  
